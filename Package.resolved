@@ -1,21 +1,20 @@
 {
-  "originHash" : "f1aabffe18bd86110eb1e05b9e7b05c974269eccd9dc110a10431f3b3bcb716d",
+  "originHash" : "4578bcbfe01a0c4cfeeada271344cd93ed467fac786c7f462c167f0330f75edc",
   "pins" : [
     {
       "identity" : "atprototypes",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nnabeyang/AtprotoTypes.git",
       "state" : {
-        "revision" : "dd7c8cb6597d343b91c52a24b991e6cb647a7945"
+        "revision" : "7493c7d420d89f04e4cbdad0aee1719201891d46"
       }
     },
     {
       "identity" : "germconvenience",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/germ-network/GermConvenience.git",
+      "location" : "https://github.com/nnabeyang/GermConvenience.git",
       "state" : {
-        "revision" : "46b9a0778dbcdfb3a89b64bba007daf92e32b643",
-        "version" : "0.1.1"
+        "revision" : "2d26051414ad5e876745ec1caee14aaece55a41e"
       }
     },
     {

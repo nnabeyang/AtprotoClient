@@ -16,11 +16,11 @@ let package = Package(
 	dependencies: [
 		.package(
 			url: "https://github.com/nnabeyang/AtprotoTypes.git",
-			revision: "dd7c8cb6597d343b91c52a24b991e6cb647a7945"
+			revision: "7493c7d420d89f04e4cbdad0aee1719201891d46"
 		),
 		.package(
-			url: "https://github.com/germ-network/GermConvenience.git",
-			from: "0.1.1"
+			url: "https://github.com/nnabeyang/GermConvenience.git",
+			revision: "2d26051414ad5e876745ec1caee14aaece55a41e"
 		),
 		.package(
 			url: "https://github.com/apple/swift-crypto.git",
